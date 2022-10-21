@@ -1,0 +1,16 @@
+.Wrapper {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.TextArea {
+  height: 100vh;
+  padding: 20px;
+  width: 50vw;
+}
+
+.Output {
+  padding: 0 20px 20px;
+  width: 50vw;
+}
